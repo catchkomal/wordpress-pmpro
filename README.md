@@ -1,2 +1,2 @@
 # wordpress-pmpro
-Restrict field to each discount code
+Restrict field to each discount code.
